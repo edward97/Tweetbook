@@ -124,7 +124,7 @@ namespace Tweetbook.Services
             {
                 return new AuthenticationResult
                 {
-                    Errors = new[] { "This refresh token deos has expired" }
+                    Errors = new[] { "This refresh token does has expired" }
                 };
             }
 
